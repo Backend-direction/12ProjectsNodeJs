@@ -1,0 +1,8 @@
+{
+  "name": "basic_web_server",
+  "version": "1.0.0",
+  "description": "Basic nodejs server",
+  "main": "app.js",
+  "author": "Pankiv V",
+  "license": "ISC"
+}
